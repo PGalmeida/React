@@ -21,7 +21,7 @@ Projeto React que permite ao usuário cadastrar tarefas, salvar informações no
 
 ## 📸 Demonstração
 
-![preview](https://imgur.com/Yuymcef)
+![preview](https://imgur.com/Yuymcef.png)
 ![preview](../public/img2.png) 
 ![preview](../public/img3.png) 
 
