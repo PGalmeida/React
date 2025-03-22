@@ -21,9 +21,9 @@ Projeto React que permite ao usuário cadastrar tarefas, salvar informações no
 
 ## 📸 Demonstração
 
-![preview](../ex2/public/img1.png) 
-![preview](../ex2/public/img2.png) 
-![preview](../ex2/public/img3.png) 
+![preview](../public/img1.png) 
+![preview](../public/img2.png) 
+![preview](../public/img3.png) 
 
 ## 📁 Como rodar o projeto
 
