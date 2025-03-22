@@ -57,5 +57,4 @@ O projeto abrirá automaticamente no navegador, normalmente em: `http://localhos
 
 ## ✨ Autor
 
-Pedro — Desenvolvedor Full-Stack apaixonado por tecnologia.  
-[LinkedIn ou GitHub se quiser colocar]
+Pedro Gomes de Almeida
